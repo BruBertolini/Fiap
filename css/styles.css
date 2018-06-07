@@ -1,20 +1,20 @@
 .margin-sup{
     margin-top: 50px;
-   }
-   .center-image {
+}
+.center-image {
     text-align:center;
-   }
-   .margin-image{
+}
+.margin-image{
     margin: 10px;
-   }
-   .footer{
+}
+.footer{
     bottom: 0;
     width: 100%;
     text-align:center;
     padding:20px;
-    background-color:#7F7F7F;
+    background-color:rgb(122, 114, 114);
     color: white;
-   } 
+} 
 
 .topbuffer{
     margin-top: 5%;
